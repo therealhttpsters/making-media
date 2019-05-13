@@ -50,4 +50,4 @@ C&&C regular Rafael Vasquez randomly suggested we use [this song](https://www.yo
 
 We took this audio and processed it through [PIANO SCRIBE](https://piano-scribe.glitch.me/).
 
-We brought its midi files into Apple Logic X, quantized the notes and manipulated the time. Rafael then played the song (based on his memory) on top of the melody. Additional Fx processing was performed, a percussive beat was added and a derrivative media was formed. All the _stuff_ we worked with is available here.
+We brought its midi files into Apple Logic X, quantized the notes and manipulated the time. Rafael then played the song (based on his memory) on top of the melody. Additional Fx processing was performed, a percussive beat was added and a derrivative media was formed. All the _stuff_ we worked with is available [here](https://github.com/therealhttpsters/making-media/tree/master/Project1-AI-Tone).
